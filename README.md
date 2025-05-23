@@ -47,6 +47,7 @@ A backup of the original MySQL database was created using the shell script. This
 
 Step 2: Creating a New Database & Restoring the Backup
 A new database was created, and the backup file was restored into it using the SQL dump. This step validates the integrity and usability of the backup.
+<img width="421" alt="Image" src="https://github.com/user-attachments/assets/6f453c50-7968-4dce-8133-b2765c71d6d6" />
 
 
 Step 3: Script Output - MySQL Backup & Restore
