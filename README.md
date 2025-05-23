@@ -54,5 +54,7 @@ A new database was created, and the backup file was restored into it using the S
 
 Step 3: Script Output - MySQL Backup & Restore
 Upon executing the backup_and_restore.sh script, all steps (backup and restore) were completed successfully for MySQL.
+
 <img width="302" alt="Image" src="https://github.com/user-attachments/assets/3ab9d0d3-f78b-4f75-ba17-47399a37c327" />
 
+<img width="340" alt="Image" src="https://github.com/user-attachments/assets/ad5e85e6-1850-4758-a86c-318502fcd637" />
