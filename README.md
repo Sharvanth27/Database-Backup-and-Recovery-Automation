@@ -12,7 +12,8 @@
 
 "MENTOR": NEELA SANTOSH
 
-Task Objective
+Task Objective:
+
 The primary goal of this task is to demonstrate the ability to back up a database and restore it in case of failure, ensuring data integrity and availability. The task involves:
 
 Backing up MySQL and PostgreSQL databases.
@@ -23,7 +24,8 @@ Automating the entire process using a shell script.
 
 This task is critical in real-world scenarios where database recovery ensures business continuity in the event of system crashes, data corruption, or accidental deletion.
 
-📁 Deliverables (Files Included)
+📁 Deliverables (Files Included):
+
 backup_and_restore.sh
 A shell script that automates:
 
