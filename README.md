@@ -42,12 +42,13 @@ SQL file used to restore the database contents into a newly created MySQL or Pos
 Execution & Output
 Step 1: Backup of the Existing MySQL Database
 A backup of the original MySQL database was created using the shell script. This ensures that data is safely stored and can be recovered later.
+<img width="313" alt="Image" src="https://github.com/user-attachments/assets/7426f3d9-380e-4c3b-96e3-d0c421a78b3d" />
 
 
 Step 2: Creating a New Database & Restoring the Backup
 A new database was created, and the backup file was restored into it using the SQL dump. This step validates the integrity and usability of the backup.
-[Screenshot: Terminal or DB tool showing new database and restored data]
+
 
 Step 3: Script Output - MySQL Backup & Restore
 Upon executing the backup_and_restore.sh script, all steps (backup and restore) were completed successfully for MySQL.
-[Screenshot: Script output in the terminal]
+
