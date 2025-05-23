@@ -42,6 +42,7 @@ codtech_backup.sql
 SQL file used to restore the database contents into a newly created MySQL or PostgreSQL database.
 
 Execution & Output
+
 Step 1: Backup of the Existing MySQL Database
 A backup of the original MySQL database was created using the shell script. This ensures that data is safely stored and can be recovered later.
 
